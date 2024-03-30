@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+video{
+  padding: 0;
+  margin: 0;
+}
+.video-con{
+  max-width: 50%;
+  padding: 0;
+  margin: 0;
+}
+.pager{
+  width: 100%;
+  height: 100vh;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
